@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>898679181920-qsiag1kplfvl2ie314vl777sh1c3rv1k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.898679181920-qsiag1kplfvl2ie314vl777sh1c3rv1k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3zQxvi7tvDiD2urAIN1B82yqy1PwpUro</string>
+	<key>GCM_SENDER_ID</key>
+	<string>898679181920</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kami.SozlukApp</string>
+	<key>PROJECT_ID</key>
+	<string>ios-project-2d8f4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-project-2d8f4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:898679181920:ios:8648171904e5f4a05de905</string>
+</dict>
+</plist>
